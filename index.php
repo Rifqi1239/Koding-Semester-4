@@ -39,23 +39,23 @@
         <ul class="navbar-nav me-auto">
 
           <li class="nav-item">
-            <a class="nav-link active" href="#">Home</a>
+            <a class="nav-link active" href="index.html">Home</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="#">Teknologi</a>
+            <a class="nav-link" href="#">About</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="#">Dunia</a>
+            <a class="nav-link" href="Contact.php">Contact</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="#">Ekonomi</a>
+            <a class="nav-link" href="Pricing.php">Pricing</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="#">Olahraga</a>
+            <a class="nav-link" href="#">Blog</a>
           </li>
 
         </ul>
@@ -68,6 +68,16 @@
       </div>
     </div>
   </nav>
+
+  <div class="d-flex gap-2 justify-content-center py-5"> <button class="btn btn-primary rounded-pill px-2"
+      type="button">Primary</button> <button class="btn btn-secondary rounded-pill px-2"
+      type="button">Secondary</button> <button class="btn btn-success rounded-pill px-2" type="button">Success</button>
+    <button class="btn btn-danger rounded-pill px-3" type="button">Danger</button> <button
+      class="btn btn-warning rounded-pill px-3" type="button">Warning</button> <button
+      class="btn btn-info rounded-pill px-3" type="button">Info</button> <button class="btn btn-light rounded-pill px-3"
+      type="button">Light</button> <button class="btn btn-dark rounded-pill px-3" type="button">Dark</button> <button
+      class="btn btn-link rounded-pill px-3" type="button">Link</button>
+  </div>
 
 
   <!-- headline -->
