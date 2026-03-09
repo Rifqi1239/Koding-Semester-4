@@ -13,12 +13,12 @@
 
 <body data-bs-theme="dark">
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
 
-  <!-- heder -->
+  <!-- hederrr -->
 
   <header class="text-center py-4">
-    <h1>Rifqi News</h1>
+    <h1>RNews</h1>
     <p class="text-secondary">Portal Berita Teknologi & Informasi</p>
   </header>
 
@@ -196,6 +196,14 @@
       <div class="card-body">
         <h5 class="card-title">Keamanan Data di Era Digital</h5>
         <p class="card-text">Pentingnya menjaga keamanan data pribadi di tengah perkembangan teknologi.</p>
+        <a href="#" class="btn btn-outline-light">Baca Artikel</a>
+      </div>
+    </div>
+
+    <div class="card mb-3 shadow">
+      <div class="card-body">
+        <h5 class="card-title">Dampak MBG pada perkembangan pelajar</h5>
+        <p class="card-text"> antusiasme peserta didik terhadap mbg </p>
         <a href="#" class="btn btn-outline-light">Baca Artikel</a>
       </div>
     </div>
