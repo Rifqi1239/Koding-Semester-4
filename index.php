@@ -15,6 +15,8 @@
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
 
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
   <!-- hederrr -->
 
   <header class="text-center py-4">
@@ -59,11 +61,17 @@
           </li>
 
         </ul>
+        <div class="d-flex align-items-center">
 
-        <form class="d-flex">
-          <input class="form-control me-2" type="search" placeholder="Search berita">
-          <button class="btn btn-outline-light">Search</button>
-        </form>
+          <form class="d-flex me-3">
+            <input class="form-control me-2" type="search" placeholder="Search berita">
+            <button class="btn btn-outline-light">Search</button>
+          </form>
+
+          <a href="login.php" class="btn btn-outline-light me-2">Login</a>
+          <a href="register.php" class="btn btn-primary">Register</a>
+
+        </div>
 
       </div>
     </div>
